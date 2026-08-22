@@ -10,7 +10,7 @@ Instead of using one large network, subnetting divides it into smaller networks.
 
 Example:
 
-```text
+text
 192.168.1.0/24
         ↓
  ┌──────┼──────┬──────┐
